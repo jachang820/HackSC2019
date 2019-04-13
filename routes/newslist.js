@@ -1,0 +1,1 @@
+const indexGet = require('../controllers/newsListGet');
